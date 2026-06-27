@@ -5,12 +5,12 @@ This project was inspired by Tsoding, who implemented a similar simulation in C 
 I decided to build this in Python just for fun, without looking at his implementation. I am fully aware that my implementation is highly inefficient in several areas, but it serves its purpose as an exploratory project.
 
 ## Algorithm Reference
-<div style="min-height: 160px; margin-bottom: 20px;">
-  <img src="docs/illustration_of_the_algorithm.png" width="250" align="left" style="margin-right: 15px; margin-bottom: 10px;">
+<div style="margin-bottom: 20px;">
+  <img src="docs/illustration_of_the_algorithm.png" width="180" align="right" style="margin-left: 15px; margin-bottom: 5px;">
   <p>The algorithm follows the description in the paper: <a href="https://dl.acm.org/doi/10.1145/1186822.1073251">Modeling and Visualization of Leaf Venation Patterns</a> (Section "3.4 Example").</p>
   <p>A local copy of the PDF is available in <code>docs/modeling_and_visualization_of_leaf_venation_patterns.pdf</code>.</p>
 </div>
-<br clear="left">
+<br clear="right">
 
 ### Top-Left Starting Position
 <table align="center">
