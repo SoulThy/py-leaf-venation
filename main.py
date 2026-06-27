@@ -147,10 +147,9 @@ def main():
     draw(screen)
 
     running = True
-    simulation_started = False
 
     while running:
-        if AUTO_MODE and len(nodes) < MAX_NODES and simulation_started:
+        if AUTO_MODE and len(nodes) < MAX_NODES:
             step_simulation()
             draw(screen)
             clock.tick(FPS)
@@ -168,9 +167,6 @@ def main():
                 if event.key == pygame.K_SPACE and not AUTO_MODE:
                     step_simulation()
                     draw(screen)
-
-                if event.key == pygame.K_s:
-                    simulation_started = True
 
     pygame.quit()
 
