@@ -16,11 +16,11 @@ I decided to build this in Python just for fun, without looking at his implement
 <table align="center">
   <tr>
     <td align="center" width="50%">
-      <b>Auxin Collision Radius 5x Density</b><br>
+      <b>Auxin Collision Radius 5x</b><br>
       <video src="https://github.com/user-attachments/assets/b0d47969-f37c-4e2f-b254-fcf1e46c325b" width="100%" controls></video>
     </td>
     <td align="center" width="50%">
-      <b>Auxin Collision Radius 20x Density</b><br>
+      <b>Auxin Collision Radius 20x</b><br>
       <video src="https://github.com/user-attachments/assets/0ae6ad61-fd96-4abb-9706-370b5e032338" width="100%" controls></video>
     </td>
   </tr>
@@ -30,11 +30,11 @@ I decided to build this in Python just for fun, without looking at his implement
 <table align="center">
   <tr>
     <td align="center" width="50%">
-      <b>Auxin Collision Radius 5x Density</b><br>
+      <b>Auxin Collision Radius 5x</b><br>
       <video src="https://github.com/user-attachments/assets/30c79c9f-2a6b-44c1-a23f-cb40e1a7b5a1" width="100%" controls></video>
     </td>
     <td align="center" width="50%">
-      <b>Auxin Collision Radius 20x Density</b><br>
+      <b>Auxin Collision Radius 20x</b><br>
       <video src="https://github.com/user-attachments/assets/b42166cd-cc77-4b0a-bdf5-87ae333998ee" width="100%" controls></video>
     </td>
   </tr>
